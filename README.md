@@ -1,16 +1,22 @@
-### Hi there 👋
+## Oiii! Eu sou o Jolzinhou
 
-<!--
-**Jolzinhou/Jolzinhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
+ <div>
+  <a href="https://github.com/Jolzinhou">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jolzinhou&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+  ##
+ 
+<div> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+<br><p align="centre"><b>Contagem de Visitantes</b></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Jolzinhou}/count.svg" /></p> 
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
